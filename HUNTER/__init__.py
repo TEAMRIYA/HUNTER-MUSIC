@@ -1,8 +1,8 @@
-from JioSavaan.core.bot import Anony
-from JioSavaan.core.dir import dirr
-from JioSavaan.core.git import git
-from JioSavaan.core.userbot import Userbot
-from JioSavaan.misc import dbb, heroku
+from HUNTER.core.bot import Anony
+from HUNTER.core.dir import dirr
+from HUNTER.core.git import git
+from HUNTER.core.userbot import Userbot
+from HUNTER.misc import dbb, heroku
 
 from .logging import LOGGER
 
